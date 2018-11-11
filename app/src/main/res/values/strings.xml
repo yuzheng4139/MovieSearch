@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieSearch</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_not_found">Movie Not Found</string>
+    <string name="search_movie_by_name">search movie by name</string>
+    <string name="search">Search</string>
+    <string name="loading_error">Loading Error</string>
+</resources>
