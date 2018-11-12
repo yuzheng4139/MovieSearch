@@ -29,6 +29,7 @@ Still, I will plan on what tools and libs to use first and layout the app archit
 9. If you were going to implement a level of automated testing to prepare this for a production environment,
 how would you go about doing so?
 I would impement Instrument test cases using Espresso. I did not do that at this time. I will add some basic tests if I get a chance.
-If you were unable to finish the exercise, what issues did you face and how did you plan on finishing the
+
+10. If you were unable to finish the exercise, what issues did you face and how did you plan on finishing the
 exercise?
 N.A.
